@@ -15,7 +15,7 @@
 
 - Created - 2022
 
-- Technologies Used - Html , Scss , Js
+- Technologies Used : Html , Scss , Js
 
 - Role - Frontend
 
