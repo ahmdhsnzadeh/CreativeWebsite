@@ -2,6 +2,12 @@
 
 **This beautiful website is Code by Me**
 
+<h3 align="center">🎥Video</h3>
+
+https://user-images.githubusercontent.com/109382352/211200014-cc931688-14b8-4b15-b00a-e5fd9f0e3a6a.mp4
+
+<h4 align="center">📸Gallery</h4>
+
 ![c](https://user-images.githubusercontent.com/109382352/211188485-6455e8aa-eb1d-4f9c-b4d8-6aaeaf14cc40.jpg)
 
 ![dd](https://user-images.githubusercontent.com/109382352/211188489-aeb5b38f-21db-447d-ac4e-96c99575d95f.jpg)
